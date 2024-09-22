@@ -23,4 +23,3 @@ Images are of two types
 -Gray Scale images- single pixel
 -Colored images-3 channel rgb images ; pixel value decided with r,g,b;
 
-//DPI->
